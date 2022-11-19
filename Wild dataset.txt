@@ -1,0 +1,6 @@
+Napisati program koji će učitati dataset “data.csv”, 
+te će na osnovu prvih šest parametara raditi predviđanje sedme kolone. 
+Uraditi detaljnu analizu podataka, ukloniti potencijalne viška kolone, 
+anomalije, pronaći korelacije između podataka, grafički prikazati podatke, 
+te implementirati bar 3 različita regresora za računanje vrijednosti 
+posljednje kolone. Uraditi komparaciju dobijenih rezultata.
