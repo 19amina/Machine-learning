@@ -1,3 +1,12 @@
+Write a program that will load the data set "data.csv",
+and based on the first six parameters, it will predict the seventh column.
+Perform a detailed data analysis, remove potential redundant columns,
+anomalies, find correlations between data, graph data,
+and implement at least 3 different regressors for calculating values
+last column. Make a comparison of the obtained results.
+
+------
+
 Napisati program koji će učitati dataset “data.csv”, 
 te će na osnovu prvih šest parametara raditi predviđanje sedme kolone. 
 Uraditi detaljnu analizu podataka, ukloniti potencijalne viška kolone, 
